@@ -1,4 +1,4 @@
 # first-repo
-I am Ateeb Ahmed Khan and I am a cybersecurity enthusisatic.
+Hi
 <br>
-I am ready to learn more about cybersec.
+I am Ateeb Ahmed Khan
